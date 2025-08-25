@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bislerium.UI/1.0.0": {
+        "runtime": {
+          "Bislerium.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bislerium.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

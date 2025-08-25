@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOH06l15DGAkFRZbY+Il4vVuxsaLU6WFsUnxTMDEaFWbT8Vdr356xoCe90neE4HQpNfIepz3VXa9VA734HdSBw==",
+  "success": true,
+  "projectFilePath": "D:\\college\\Application development\\Bislerium PVT. LTD\\Bislerium\\Bislerium.UI\\Bislerium.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
